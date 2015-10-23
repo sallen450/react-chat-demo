@@ -1,6 +1,8 @@
 {
     "extends": "airbnb",
     "rules": {
-        "react/jsx-quotes": 0
+        "react/jsx-quotes": 0,
+        "indent": [2, 4],
+        "quotes": 0
     }
 }
